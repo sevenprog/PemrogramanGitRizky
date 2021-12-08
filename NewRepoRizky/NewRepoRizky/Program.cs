@@ -11,6 +11,7 @@ namespace NewRepoRizky
         static void Main(string[] args)
         {
             Console.WriteLine("HelloWorld!");
+            Console.WriteLine("Pemrograman Lanjut S1 Informatika");
         }
     }
 }
