@@ -12,6 +12,7 @@ namespace NewRepoRizky
         {
             Console.WriteLine("HelloWorld!");
             Console.WriteLine("Pemrograman Lanjut S1 Informatika");
+            Console.WriteLine("Materi Praktikum Git");
         }
     }
 }
